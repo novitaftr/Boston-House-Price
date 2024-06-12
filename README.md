@@ -20,9 +20,9 @@ The main objectives of this project are:
    - Understand the structure and features of the Boston housing dataset.
    - Visualize distributions and correlations between variables.
 ### 2. Data Preprocessing
-   - Handle missing values, if any, using appropriate imputation techniques.
+   - Handle missing values and duplicated data
    - Multicolinearity handling
-   - Split the dataset into training and testing sets.
+   - Split the dataset into training and testing sets
 ### 3. Model Training
    - Train a Linear Regression model to predict housing prices.
    - Train a Ridge Regression model with regularization.
